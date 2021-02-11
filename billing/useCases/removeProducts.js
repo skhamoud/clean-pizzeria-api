@@ -1,0 +1,1 @@
+// removes product and quantities to the cart
